@@ -1,4 +1,4 @@
 # UAS-Desicion-Tree
-Ahmad Juantoro
-171011400142
-Kecerdasan Buatan
+1. Ahmad Juantoro
+2. 171011400142
+3. Kecerdasan Buatan
